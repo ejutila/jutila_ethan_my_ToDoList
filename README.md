@@ -1,4 +1,4 @@
-# jutila_ethan_my_ToDoList
+# My Video Game To-Do List
 
 This is a list of the video games that I have still yet to finish and complete and the ones that I'm planning on playing through eventually.
 
